@@ -1,1 +1,1 @@
-Video Maker App
+Automation Testing Platform
